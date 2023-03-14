@@ -3,7 +3,7 @@
   <groupId>newrestassured</groupId>
   <artifactId>newrestassured</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+  <--Demo-->
     <dependencies>
     <dependency>
       <groupId>junit</groupId>
